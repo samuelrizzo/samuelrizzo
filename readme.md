@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm rizzo from goias<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning C# and improving C++ skills<br>- ⚡ In my free time I play CS2 and Starcraft remastered</p>
+<p align="left">I'm rizzo from goias 🤠<br><br>- 🔭 I’m working as a software engineer<br>- 📚 I'm currently learning C# and improving C++ skills<br>- ⚡ In my free time I play CS2 and Starcraft remastered</p>
 
 ###
 
