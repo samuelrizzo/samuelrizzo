@@ -20,6 +20,24 @@ I'm a Software Engineer passionate about coding and learning new technologies.
   <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
   <code><img height="20" alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></code>
+    <code><img height="20" alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></code>
+    <code><img height="20" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
+    <code><img height="20" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></code>
+    <code><img height="20" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></code>
+    <code><img height="20" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE"></code>
+    <code><img height="20" alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"></code>
+    <code><img height="20" alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></code>
+    <code><img height="20" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></code>
+    <code><img height="20" alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"></code>
+    <code><img height="20" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></code>
+    <code><img height="20" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+    <code><img height="20" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></code>
+    <code><img height="20" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"></code>
+    <code><img height="20" alt="CMake" src="https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white"></code>
+    <code><img height="20" alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"></code>
+    <code><img height="20" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></code>
+    <code><img height="20" alt="ESLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"></code>
+    <code><img height="20" alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"></code>
 </p>
 
 <br />
@@ -28,12 +46,17 @@ I'm a Software Engineer passionate about coding and learning new technologies.
   <tr>
     <td>
       <a href="https://github.com/samuelrizzo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelrizzo&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Samuel's github stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=samuelrizzo&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Samuel's GitHub Stats" />
+      </a>
+    </td>
+     <td>
+      <a href="https://github.com/samuelrizzo">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrizzo&theme=dracula&hide_border=false" alt="Samuel's Streak Stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/samuelrizzo">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
       </a>
     </td>
   </tr>
@@ -45,10 +68,10 @@ I'm a Software Engineer passionate about coding and learning new technologies.
 
 <p align="center">
   <a href="https://github.com/samuelrizzo/apuracao-tse-2024">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=apuracao-tse-2024&theme=dracula" alt="apuracao-tse-2024" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=apuracao-tse-2024&theme=dracula" alt="apuracao-tse-2024" />
   </a>
   <a href="https://github.com/samuelrizzo/python-fast-api-prisma-crud">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=python-fast-api-prisma-crud&theme=dracula" alt="python-fast-api-prisma-crud" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=python-fast-api-prisma-crud&theme=dracula" alt="python-fast-api-prisma-crud" />
   </a>
 </p>
 
