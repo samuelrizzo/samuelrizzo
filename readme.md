@@ -42,25 +42,18 @@ I'm a Software Engineer passionate about coding and learning new technologies.
 
 <br />
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/samuelrizzo">
-        <img src="https://github-readme-stats.vercel.app/api?username=samuelrizzo&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="Samuel's GitHub Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/samuelrizzo">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrizzo&theme=dracula&hide_border=false" alt="Samuel's Streak Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/samuelrizzo">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/samuelrizzo">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=samuelrizzo&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/samuelrizzo">
+    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrizzo&theme=dracula&hide_border=true" alt="Streak Stats" />
+  </a>
+  <a href="https://github.com/samuelrizzo">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
 
 <br />
 
