@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:782A90,100:2A8990&height=200&section=header&text=Samuel%20Rizzo&fontSize=50&fontColor=fff&animation=fadeIn" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:782A90,100:2A8990&height=200&section=header&text=rizzo&fontSize=50&fontColor=fff&animation=fadeIn" alt="Header" />
 </p>
 
 <br />
