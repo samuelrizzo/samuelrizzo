@@ -61,10 +61,10 @@ I'm a Software Engineer passionate about coding and learning new technologies.
 
 <p align="center">
   <a href="https://github.com/samuelrizzo/apuracao-tse-2024">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=apuracao-tse-2024&theme=dracula" alt="Apuração TSE" />
+    <img width="400" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=apuracao-tse-2024&theme=dracula" alt="Apuração TSE" />
   </a>
   <a href="https://github.com/samuelrizzo/python-fast-api-prisma-crud">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=python-fast-api-prisma-crud&theme=dracula" alt="FastAPI Prisma CRUD" />
+    <img width="400" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=python-fast-api-prisma-crud&theme=dracula" alt="FastAPI Prisma CRUD" />
   </a>
 </p>
 
