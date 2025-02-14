@@ -59,27 +59,15 @@ I'm a Software Engineer passionate about coding and learning new technologies.
 
 <h4 align="center">Top Repositories</h4>
 
-<!-- Aqui usamos uma tabela para forçar os cards a terem o mesmo tamanho. 
-Cada card é encapsulado por um <div> com dimensões fixas. Caso os conteúdos internos 
-sejam maiores, o overflow será ocultado. Ajuste os valores de width e height conforme necessário. -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/samuelrizzo/apuracao-tse-2024">
-        <div style="width:400px; height:245px; overflow:hidden;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=apuracao-tse-2024&theme=dracula" alt="apuracao-tse-2024" style="width:100%;">
-        </div>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/samuelrizzo/python-fast-api-prisma-crud">
-        <div style="width:400px; height:245px; overflow:hidden;">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=python-fast-api-prisma-crud&theme=dracula" alt="python-fast-api-prisma-crud" style="width:100%;">
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/samuelrizzo/apuracao-tse-2024">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=apuracao-tse-2024&theme=dracula" alt="Apuração TSE" />
+  </a>
+  <a href="https://github.com/samuelrizzo/python-fast-api-prisma-crud">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=python-fast-api-prisma-crud&theme=dracula" alt="FastAPI Prisma CRUD" />
+  </a>
+</p>
+
 
 <br />
 
