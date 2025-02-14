@@ -47,7 +47,7 @@ I'm a Software Engineer passionate about coding and learning new technologies.
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=samuelrizzo&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/samuelrizzo">
-    <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelrizzo&theme=dracula&hide_border=true" alt="Streak Stats" />
+    <img height="150" src="https://streak-stats.demolab.com/?user=samuelrizzo&theme=dracula" alt="Streak Stats" />
   </a>
   <a href="https://github.com/samuelrizzo">
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelrizzo&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
