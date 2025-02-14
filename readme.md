@@ -59,14 +59,23 @@ I'm a Software Engineer passionate about coding and learning new technologies.
 
 <h4 align="center">Top Repositories</h4>
 
-<p align="center">
-  <a href="https://github.com/samuelrizzo/apuracao-tse-2024">
-    <img width="400" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=apuracao-tse-2024&theme=dracula" alt="Apuração TSE" />
-  </a>
-  <a href="https://github.com/samuelrizzo/python-fast-api-prisma-crud">
-    <img width="400" height="250" src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=python-fast-api-prisma-crud&theme=dracula" alt="FastAPI Prisma CRUD" />
-  </a>
-</p>
+<div align="center">
+  <table style="width: 100%; table-layout: fixed;">
+    <tr>
+      <td style="width: 50%; vertical-align: top;">
+        <a href="https://github.com/samuelrizzo/apuracao-tse-2024">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=apuracao-tse-2024&theme=dracula" width="400" height="150" alt="Apuração TSE">
+        </a>
+      </td>
+      <td style="width: 50%; vertical-align: top;">
+        <a href="https://github.com/samuelrizzo/python-fast-api-prisma-crud">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelrizzo&repo=python-fast-api-prisma-crud&theme=dracula" width="400" height="150" alt="FastAPI Prisma CRUD">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 <br />
