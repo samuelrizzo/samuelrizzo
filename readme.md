@@ -63,9 +63,9 @@ root@rizzo1:~# ./status --now
 <br />
 
 <p align="center">
-  <a href="https://linkedin.com/in/samuel-rizzo"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>
-  <a href="https://t.me/samuelrizzo"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=2CA5E0" alt="Telegram"></a>
-  <a href="https://instagram.com/rizzo.exe"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
+  <a href="https://linkedin.com/in/samuel-rizzo"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://t.me/samuelrizzo"><img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://instagram.com/rizzo.exe"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 <p align="center">
