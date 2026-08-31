@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samuelrizzo/samuelrizzo/main/.github/assets/terminal.svg" alt="terminal" width="640" />
+  <img src=".github/assets/terminal.svg" alt="terminal" width="640" />
 </p>
 
 
