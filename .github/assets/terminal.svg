@@ -11,7 +11,7 @@
   </style>
   <text x="22" y="74" class="p">root@rizzo1:~# </text>
   <text x="148" y="74" class="c">whoami</text>
-  <text x="22" y="95" class="dim">software engineer :: builds games, breaks cheats</text>
+  <text x="22" y="95" class="dim">software engineer :: web dev :: game dev</text>
   <text x="22" y="137" class="p">root@rizzo1:~# </text>
   <text x="148" y="137" class="c">cat .profile</text>
   <text x="22" y="158" class="dim">role   : software engineer</text>
