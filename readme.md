@@ -13,25 +13,10 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=%3E%20building%20games%2C%20killing%20cheaters;%3E%20C%23%20%7C%20C%2B%2B%20%7C%20TypeScript%20%7C%20Bun;%3E%20access%20granted.&font=Fira%20Code&size=18&color=00FF9C&background=00000000&center=true&vCenter=true&width=600&height=50&pause=800" alt="rizzo1" />
 </p>
 
-```
-┌────────────────────────────────────────────────────┐
-│ o o o               rizzo1@github: ~               │
-├────────────────────────────────────────────────────┤
-│ root@rizzo1:~# whoami                              │
-│ software engineer :: builds games, breaks cheats   │
-│                                                    │
-│ root@rizzo1:~# cat .profile                        │
-│ role   : software engineer                         │
-│ stack  : C#, C++, TypeScript, Bun                  │
-│ payload: game dev + web dev                        │
-│ uptime : CS2 / Starcraft remastered                │
-│                                                    │
-│ root@rizzo1:~# ./status --now                      │
-│ [ok] shipping code                                 │
-│ [ok] reversing what shouldn't run                  │
-│ root@rizzo1:~# _                                   │
-└────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samuelrizzo/samuelrizzo/main/.github/assets/terminal.svg" alt="terminal" width="640" />
+</p>
+
 
 <h4 align="center">// arsenal</h4>
 
