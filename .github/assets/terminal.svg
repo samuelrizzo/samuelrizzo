@@ -9,68 +9,77 @@
   <style>
     .p { fill: #00ff9c; } .c { fill: #e6e6e6; } .dim { fill: #9a9aa4; } .ok { fill: #7ee787; }
   </style>
-  <g clip-path="url(#c0)"><text x="22" y="74" class="p">root@rizzo1:~# </text><text x="148.0" y="74" class="c">whoami</text></g>
-  <clipPath id="c0"><rect x="22" y="59" height="20" width="0">
-    <animate attributeName="width" dur="12.09s" repeatCount="indefinite" calcMode="linear"
-      values="0;0;176;176;176" keyTimes="0.0000;0.0000;0.0956;0.9992;1.0000"/>
+  <g opacity="0"><animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.0249;0.9958"/>
+    <text x="22" y="74" class="p">root@rizzo1:~# </text>
+    <g clip-path="url(#c0)"><text x="148" y="74" class="c">whoami</text></g>
+    <rect x="148" y="60" width="9" height="17" fill="#00ff9c">
+      <animate attributeName="x" dur="12.03s" repeatCount="indefinite" calcMode="linear"
+        values="148;148;198;198" keyTimes="0.0000;0.0249;0.0698;1.0000"/>
+      <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+        values="1;0" keyTimes="0.0000;0.0998"/>
+    </rect>
+  </g>
+  <clipPath id="c0"><rect x="148" y="59" height="20" width="0">
+    <animate attributeName="width" dur="12.03s" repeatCount="indefinite" calcMode="linear"
+      values="0;0;50;50" keyTimes="0.0000;0.0249;0.0698;1.0000"/>
   </rect></clipPath>
-  <rect x="22" y="60" width="9" height="17" fill="#00ff9c" opacity="0">
-    <animate attributeName="x" dur="12.09s" repeatCount="indefinite" calcMode="linear"
-      values="22;22;198;198" keyTimes="0.0000;0.0000;0.0956;1.0000"/>
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.0000;0.1245"/>
-  </rect>
   <text x="22" y="95" class="dim" opacity="0">software engineer :: web dev :: game dev
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.1245;0.9959"/>
+    <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+      values="0;1;0" keyTimes="0.0000;0.1072;0.9958"/>
   </text>
-  <g clip-path="url(#c3)"><text x="22" y="137" class="p">root@rizzo1:~# </text><text x="148.0" y="137" class="c">cat .profile</text></g>
-  <clipPath id="c3"><rect x="22" y="122" height="20" width="0">
-    <animate attributeName="width" dur="12.09s" repeatCount="indefinite" calcMode="linear"
-      values="0;0;227;227;227" keyTimes="0.0000;0.1783;0.3012;0.9992;1.0000"/>
+  <g opacity="0"><animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.1696;0.9958"/>
+    <text x="22" y="137" class="p">root@rizzo1:~# </text>
+    <g clip-path="url(#c3)"><text x="148" y="137" class="c">cat .profile</text></g>
+    <rect x="148" y="123" width="9" height="17" fill="#00ff9c">
+      <animate attributeName="x" dur="12.03s" repeatCount="indefinite" calcMode="linear"
+        values="148;148;249;249" keyTimes="0.0000;0.1696;0.2594;1.0000"/>
+      <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+        values="1;0" keyTimes="0.0000;0.2893"/>
+    </rect>
+  </g>
+  <clipPath id="c3"><rect x="148" y="122" height="20" width="0">
+    <animate attributeName="width" dur="12.03s" repeatCount="indefinite" calcMode="linear"
+      values="0;0;101;101" keyTimes="0.0000;0.1696;0.2594;1.0000"/>
   </rect></clipPath>
-  <rect x="22" y="123" width="9" height="17" fill="#00ff9c" opacity="0">
-    <animate attributeName="x" dur="12.09s" repeatCount="indefinite" calcMode="linear"
-      values="22;22;249;249" keyTimes="0.0000;0.1783;0.3012;1.0000"/>
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.1783;0.3302"/>
-  </rect>
   <text x="22" y="158" class="dim" opacity="0">role   : software engineer
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.3302;0.9959"/>
+    <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+      values="0;1;0" keyTimes="0.0000;0.2968;0.9958"/>
   </text>
   <text x="22" y="179" class="dim" opacity="0">stack  : C#, C++, TypeScript, Bun
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.3715;0.9959"/>
+    <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+      values="0;1;0" keyTimes="0.0000;0.3466;0.9958"/>
   </text>
   <text x="22" y="200" class="dim" opacity="0">payload: game dev + web dev
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.4129;0.9959"/>
+    <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+      values="0;1;0" keyTimes="0.0000;0.3965;0.9958"/>
   </text>
   <text x="22" y="221" class="dim" opacity="0">uptime : CS2 / Starcraft remastered
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.4543;0.9959"/>
+    <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+      values="0;1;0" keyTimes="0.0000;0.4464;0.9958"/>
   </text>
-  <g clip-path="url(#c9)"><text x="22" y="263" class="p">root@rizzo1:~# </text><text x="148.0" y="263" class="c">./status --now</text></g>
-  <clipPath id="c9"><rect x="22" y="248" height="20" width="0">
-    <animate attributeName="width" dur="12.09s" repeatCount="indefinite" calcMode="linear"
-      values="0;0;244;244;244" keyTimes="0.0000;0.5081;0.6400;0.9992;1.0000"/>
+  <g opacity="0"><animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.5087;0.9958"/>
+    <text x="22" y="263" class="p">root@rizzo1:~# </text>
+    <g clip-path="url(#c9)"><text x="148" y="263" class="c">./status --now</text></g>
+    <rect x="148" y="249" width="9" height="17" fill="#00ff9c">
+      <animate attributeName="x" dur="12.03s" repeatCount="indefinite" calcMode="linear"
+        values="148;148;266;266" keyTimes="0.0000;0.5087;0.6135;1.0000"/>
+      <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+        values="1;0" keyTimes="0.0000;0.6434"/>
+    </rect>
+  </g>
+  <clipPath id="c9"><rect x="148" y="248" height="20" width="0">
+    <animate attributeName="width" dur="12.03s" repeatCount="indefinite" calcMode="linear"
+      values="0;0;118;118" keyTimes="0.0000;0.5087;0.6135;1.0000"/>
   </rect></clipPath>
-  <rect x="22" y="249" width="9" height="17" fill="#00ff9c" opacity="0">
-    <animate attributeName="x" dur="12.09s" repeatCount="indefinite" calcMode="linear"
-      values="22;22;266;266" keyTimes="0.0000;0.5081;0.6400;1.0000"/>
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.5081;0.6690"/>
-  </rect>
   <text x="22" y="284" class="ok" opacity="0">[ok] shipping code
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.6690;0.9959"/>
+    <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+      values="0;1;0" keyTimes="0.0000;0.6509;0.9958"/>
   </text>
   <text x="22" y="305" class="ok" opacity="0">[ok] reversing what shouldn't run
-    <animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete"
-      values="0;1;0" keyTimes="0.0000;0.7104;0.9959"/>
+    <animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete"
+      values="0;1;0" keyTimes="0.0000;0.7007;0.9958"/>
   </text>
-  <g opacity="0"><animate attributeName="opacity" dur="12.09s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.7518;0.9959"/>
+  <g opacity="0"><animate attributeName="opacity" dur="12.03s" repeatCount="indefinite" calcMode="discrete" values="0;1;0" keyTimes="0.0000;0.7506;0.9958"/>
     <text x="22" y="326" class="p">root@rizzo1:~#</text>
     <rect x="148" y="312" width="9" height="17" fill="#00ff9c">
       <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
